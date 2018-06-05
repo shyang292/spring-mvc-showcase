@@ -17,6 +17,7 @@
 </head>
 <body>
 <h1><a href="<c:url value="/" />">spring-mvc-showcase</a></h1>
+<p>this is the second line to be added</p>
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
